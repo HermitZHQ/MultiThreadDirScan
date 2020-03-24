@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.log
+DllTestModule/x64/
+*.exp
+*.pdb
+*.ilk
+x64/
